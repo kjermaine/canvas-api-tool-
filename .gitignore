@@ -1,0 +1,5 @@
+venv/
+__pycache__/
+*.pyc
+.env
+canvas_app.db
